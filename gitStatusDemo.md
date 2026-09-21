@@ -1,1 +1,1 @@
-gitStatusDemo.md file
+This is new line
